@@ -16,7 +16,7 @@
         }
     },
     "globalData": {
-        "skirmish": {
+        "zone": {
             "rules": {
                             },
             "missions": {
